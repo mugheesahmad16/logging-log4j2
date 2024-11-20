@@ -304,7 +304,8 @@
   </distributionManagement>
 
   <properties>
-
+    <sonar.organization>mugheesahmad16</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     <!-- project version -->
     <revision>2.25.0-SNAPSHOT</revision>
     <!-- Versions used on the site: no snapshots! -->
